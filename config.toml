@@ -1,0 +1,4 @@
+baseURL = 'https://shores.site/'
+languageCode = 'en-us'
+theme = "ananke"
+title = 'shores'
